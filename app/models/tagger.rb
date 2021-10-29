@@ -1,0 +1,2 @@
+class Tagger < ApplicationRecord
+end
